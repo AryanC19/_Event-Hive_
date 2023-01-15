@@ -1,16 +1,17 @@
-# winhack23
+Project for VinHack 23
 
-A new Flutter project.
 
-## Getting Started
+Students are tired of missing out on events, Important guest lectures, and many other things due to cluttered and unorganized college emails
 
-This project is a starting point for a Flutter application.
+Event Hive is all-in-one platform for finding, managing and promoting university and organization events.
 
-A few resources to get you started if this is your first Flutter project:
+https://app.pitch.com/app/presentation/e77d2a36-8221-48f4-8ed5-7455fe700a0a/3f49b29e-f56a-4592-a265-4add7a31a609
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+![My Image](images/1.jpeg)
+![My Image](images/2.jpeg)
+![My Image](images/3.jpeg)
+![My Image](images/4.jpeg)
